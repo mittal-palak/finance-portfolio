@@ -48,4 +48,4 @@ This repository documents my learning journey through practical projects, dashbo
 ## Connect
 
 LinkedIn:
-[(Insert your LinkedIn URL)](https://www.linkedin.com/in/contactmittalpalak/)
+(https://www.linkedin.com/in/contactmittalpalak/)
