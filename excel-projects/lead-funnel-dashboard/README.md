@@ -10,7 +10,7 @@ The objective was to identify bottlenecks in the customer acquisition process an
 
 ## Dashboard Preview
 
-![Lead Funnel Dashboard](dashboard.png)
+![Lead Funnel Dashboard](DASHBOARD.png)
 
 ---
 
