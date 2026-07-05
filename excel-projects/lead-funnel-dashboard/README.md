@@ -1,12 +1,28 @@
 # Lead Funnel Performance Dashboard
 
-## Overview
+## Project Overview
 
-This project was developed during the first week of my internship to analyze lead conversion performance using Microsoft Excel.
+This dashboard was developed during the first week of my internship to monitor and analyze the lead conversion funnel for a lending business.
 
-## Objective
+The objective was to identify bottlenecks in the customer acquisition process and derive actionable business insights using Microsoft Excel.
 
-To analyze lead status, disbursal rates, rejection reasons, and city-wise performance through an interactive dashboard.
+---
+
+## Dashboard Preview
+
+![Lead Funnel Dashboard](dashboard.png)
+
+---
+
+## Objectives
+
+- Analyze lead conversion performance
+- Monitor disbursal rates
+- Identify major rejection reasons
+- Compare city-wise performance
+- Evaluate lead source effectiveness
+
+---
 
 ## Tools Used
 
@@ -14,10 +30,42 @@ To analyze lead status, disbursal rates, rejection reasons, and city-wise perfor
 - Pivot Tables
 - Pivot Charts
 - Dashboard Design
+- Business Analysis
+
+---
+
+## Key KPIs
+
+- Total Leads
+- Disbursed Leads
+- Disbursal Rate
+- Rejected Applications
+- City-wise Performance
+- Lead Source Distribution
+
+---
+
+## Key Business Insights
+
+- Facebook Ads generated the highest lead volume.
+- Documentation issues and low CIBIL scores were major rejection reasons.
+- Conversion performance varied significantly across cities.
+- Dashboard findings can support targeted operational improvements.
+
+---
+
+## Files
+
+- 📊 Lead_Funnel_Performance_Dashboard.xlsx
+- 🖼️ dashboard.png
+
+---
 
 ## Skills Demonstrated
 
-- Data Analysis
+- Data Cleaning
 - Dashboard Design
 - KPI Reporting
-- Business Insights
+- Data Visualization
+- Business Analysis
+- Excel
