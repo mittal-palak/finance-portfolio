@@ -1,10 +1,24 @@
-# Lead Funnel Performance Dashboard
+# CRM Lead Funnel Analysis Dashboard
+
+**Business Analytics | Microsoft Excel | Dashboard Design | Executive Reporting**
 
 ## Project Overview
 
 This project analyzes a simulated loan CRM funnel consisting of 300 leads to identify conversion bottlenecks, understand rejection patterns, and recommend operational improvements.
 
 The project was developed as part of my Business Analytics internship and demonstrates dashboard design, business analysis, and executive reporting using Microsoft Excel.
+
+---
+## Project Snapshot
+
+| Attribute | Details |
+|-----------|----------|
+| Project Type | Business Analytics Dashboard |
+| Industry | Lending / Financial Services |
+| Tool | Microsoft Excel |
+| Dataset Size | 300 CRM Leads |
+| Duration | Internship Project |
+| Deliverables | Interactive Dashboard, Business Report, Executive Presentation |
 
 ---
 
@@ -45,19 +59,21 @@ The dashboard enables users to:
 
 ## Key Business Insights
 
-- Facebook Ads generated the highest lead volume.
-- Documentation issues and low CIBIL scores were major rejection reasons.
-- Conversion performance varied significantly across cities.
-- Dashboard findings can support targeted operational improvements.
+- Facebook Ads emerged as the highest lead acquisition channel, indicating strong top-of-funnel performance.
+- Documentation issues and low CIBIL scores accounted for a significant share of application rejections, highlighting process and eligibility bottlenecks.
+- Conversion rates differed noticeably across cities, suggesting that localized operational strategies could improve disbursal performance.
+- Dashboard findings enable management to identify high-performing acquisition channels while reducing avoidable lead losses.
 
 ---
 
-## Files
+## Repository Contents
 
-- 📊 Lead_Funnel_Performance_Dashboard.xlsx
-- 🖼️ dashboard.png
-- 📄 Business Analytics Report
-- 🎤 Executive Presentation 
+| File | Description |
+|------|-------------|
+| Loan Lead Funnel Performance Dashboard.xlsx | Interactive Excel dashboard |
+| DASHBOARD.png | Dashboard preview |
+| CRM_Lead_Funnel_Analysis_Business_Analytics_Report.pdf | Detailed analytical report |
+| CRM_Lead_Funnel_Analysis_Presentation.pdf | Executive presentation |
 
 ---
 
@@ -69,3 +85,9 @@ The dashboard enables users to:
 - Data Visualization
 - Business Analysis
 - Excel
+
+---
+
+## Learning Outcomes
+
+Through this project, I strengthened my ability to transform raw business data into actionable insights. Beyond Excel dashboard development, the project helped me improve analytical thinking, executive reporting, data storytelling, and communicating recommendations from a business perspective.
