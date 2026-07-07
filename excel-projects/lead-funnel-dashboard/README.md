@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This dashboard was developed during the first week of my internship to monitor and analyze the lead conversion funnel for a lending business.
+This project analyzes a simulated loan CRM funnel consisting of 300 leads to identify conversion bottlenecks, understand rejection patterns, and recommend operational improvements.
 
-The objective was to identify bottlenecks in the customer acquisition process and derive actionable business insights using Microsoft Excel.
+The project was developed as part of my Business Analytics internship and demonstrates dashboard design, business analysis, and executive reporting using Microsoft Excel.
 
 ---
 
@@ -14,13 +14,9 @@ The objective was to identify bottlenecks in the customer acquisition process an
 
 ---
 
-## Objectives
+## Business Problem
 
-- Analyze lead conversion performance
-- Monitor disbursal rates
-- Identify major rejection reasons
-- Compare city-wise performance
-- Evaluate lead source effectiveness
+The lending business receives leads from multiple acquisition channels, but not every lead progresses to disbursal. The objective of this analysis was to identify where leads were dropping off in the CRM funnel, determine the primary reasons for non-conversion, and recommend data-driven improvements to increase operational efficiency and conversion rates.
 
 ---
 
@@ -34,14 +30,16 @@ The objective was to identify bottlenecks in the customer acquisition process an
 
 ---
 
-## Key KPIs
+## Dashboard Highlights
 
-- Total Leads
-- Disbursed Leads
-- Disbursal Rate
-- Rejected Applications
-- City-wise Performance
-- Lead Source Distribution
+The dashboard enables users to:
+
+- Track the complete lead conversion funnel from acquisition to disbursal.
+- Monitor disbursal, rejection, and closure rates through KPI cards.
+- Compare lead performance across different acquisition channels.
+- Analyze city-wise conversion trends and disbursal efficiency.
+- Identify the most common reasons for application rejection.
+- Support faster, data-driven operational decision-making.
 
 ---
 
@@ -58,6 +56,8 @@ The objective was to identify bottlenecks in the customer acquisition process an
 
 - 📊 Lead_Funnel_Performance_Dashboard.xlsx
 - 🖼️ dashboard.png
+- 📄 Business Analytics Report
+- 🎤 Executive Presentation 
 
 ---
 
