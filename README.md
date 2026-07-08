@@ -1,51 +1,83 @@
 # Finance Portfolio
 
-Welcome to my finance portfolio.
+Welcome! I'm **Palak Mittal**, a BBA (Financial Investment Analysis) student at the University of Delhi with a growing interest in equity research, valuation, corporate finance, and business analytics.
 
-I am a BBA (Hons.) student with an interest in financial modeling, valuation, equity research, and business analytics.
+This repository serves as my public finance portfolio, documenting projects, research, dashboards, and analytical work completed through internships, independent study, and the #100DaysWithTVS learning initiative.
 
-This repository documents my learning journey through practical projects, dashboards, financial models, and research reports.
-
----
-
-## Portfolio Structure
-
-📂 Excel Projects
-
-📂 Financial Models
-
-📂 Equity Research Reports
-
-📂 Dashboards
-
-📂 Industry Reports
-
-📂 Market Notes
-
-📂 Python for Finance
+The objective is simple: learn by building, document the process, and continuously improve.
 
 ---
 
-## Skills
+# Portfolio Structure
+
+## 📊 Business Analytics
+
+- Excel Dashboards
+- KPI Reporting
+- CRM & Sales Analytics
+- Executive Reports
+- Business Presentations
+
+Current Project:
+- **Lead Funnel Performance Dashboard**
+
+---
+
+## 📈 Equity Research
+
+Independent research projects based on annual reports, earnings calls, investor presentations, management commentary, and financial analysis.
+
+Current Project:
+- **Kotak Mahindra Bank FY26 – Qualitative Management Analysis**
+
+---
+
+## 🚧 Upcoming Sections
+
+- Financial Modelling
+- Valuation
+- Industry Research
+- Python for Finance
+- Market Notes
+- Fixed Income Analysis
+
+---
+
+# Skills
+
+### Finance
+
+- Equity Research
+- Financial Statement Analysis
+- Business Analytics
+- Corporate Finance
+- Valuation (Learning)
+
+### Technical
 
 - Microsoft Excel
-- Financial Analysis
-- Business Analytics
-- Financial Modeling (Learning)
-- Valuation (Learning)
+- Pivot Tables
+- Dashboard Design
+- Power Query
 - Data Visualization
 
 ---
 
-## Current Learning
+# Current Learning
 
-- FMVA (Corporate Finance Institute)
-- NISM XV – Research Analyst
-- Equity Research
+- 📚 NISM Series XV – Research Analyst Certification
+- 📚 FMVA – Corporate Finance Institute
+- 📚 The Little Book of Valuation
+- 📚 Annual Reports & Earnings Calls
 
 ---
 
-## Connect
+# Connect
 
-LinkedIn:
-(https://www.linkedin.com/in/contactmittalpalak/)
+**LinkedIn**
+
+https://www.linkedin.com/in/contactmittalpalak/
+
+---
+
+> *"Learning finance by building projects, studying businesses, and documenting the journey."*
