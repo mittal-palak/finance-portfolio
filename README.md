@@ -32,6 +32,14 @@ Current Project:
 
 ---
 
+## Featured Projects
+
+### 🇨🇭 Switzerland – The Financial Powerhouse of the World
+
+Macroeconomic research analyzing Switzerland's financial system, banking industry, capital markets, fiscal policy, and long-term economic outlook.
+
+**Skills:** Macroeconomic Analysis · Secondary Research · Financial Writing
+
 ## 🚧 Upcoming Sections
 
 - Financial Modelling
